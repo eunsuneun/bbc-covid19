@@ -56,6 +56,7 @@ img {
 
 .scroll-text {
   position: relative;
+  padding-bottom: 1px;
 }
 
 .step {
